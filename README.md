@@ -2,7 +2,7 @@
 ______________________________________________________________________
  
 1. Which one of the following is an Imperative Language??
-/     HTML
+^     HTML
 .      CSS
 .      Java Script
             
