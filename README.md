@@ -2,18 +2,18 @@
 ______________________________________________________________________
  
 1. Which one of the following is an Imperative Language??
-      HTML
-      CSS
-      Java Script
+.      HTML
+.      CSS
+.      Java Script
             
 Answer:    Java Script 
 #
                                               
     
 2. Which one of the following is a Declarative Language??
-      HTML
-      CSS
-      Java Script
+.      HTML
+.      CSS
+.      Java Script
                  
 Answer:    HTML ,   CSS
 #                                  
@@ -46,7 +46,7 @@ Answer:   React Native is a framework for creating native-style apps under one c
 7. Which online editor are we using for creating our apps in React Native Framework??
                                                               
 Answer:   We are using it to create our apps in React Native Framework is Expo. 
-                                                                                   
+#                                                                                   
                                                                                 
                                                                              
 8. Write the steps to test your first designed app in the online editor on a mobile.
@@ -59,19 +59,19 @@ Answer:   1. Download Expo Go.
           6. Scan That Qr Code.
           7. Your First Designed App Is On Your Mobile Screen.
           8. You Can Test Your First Designed App In The Online Editor On A Mobile.
-                                                                        
+#                                                                        
                                                                        
                                                                        
 9. What is the use of the render function in React Native Framework??
                                                                                                         
 Answer:   The term “render prop” refers to a technique for sharing code between React components using a prop whose value is a function. A component with a render prop takes a function that returns a React element and calls it instead of implementing its own render logic.
-                                                                           
+#                                                                           
                                                                            
                                                                            
 10. What is the use of return function  in React Native Framework??
                                                                  
 Answer:   A function component returns is rendered as a React element. React elements let you describe what you want to see on the screen.
-                                                                       
+#                                                                       
                                                                        
                                                                        
 11. What are the various components in your first app that you designed??
