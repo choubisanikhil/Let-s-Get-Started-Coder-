@@ -2,7 +2,7 @@
 ______________________________________________________________________
  
 1. Which one of the following is an Imperative Language??
-.      HTML
+*      HTML
 .      CSS
 .      Java Script
             
@@ -77,3 +77,4 @@ Answer:   A function component returns is rendered as a React element. React ele
 11. What are the various components in your first app that you designed??
                                                                      
 Answer:   Import, React, React-native, Component, Button, View, Text, Extends-Component, Render, Return, Export.
+#
