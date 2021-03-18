@@ -47,14 +47,14 @@ Answer:   We are using it to create our apps in React Native Framework is Expo.
                                                                              
 8. Write the steps to test your first designed app in the online editor on a mobile.
                                            
-Answer:   1. Download Expo Go.
-          2. Open Your App In Expo On Computer.
-          3. Click On The My Device At Preview.
-          4. Open Your App On Mobile.
-          5. Click On Scan QR Code In Your App On Mobile.
-          6. Scan That Qr Code.
-          7. Your First Designed App Is On Your Mobile Screen.
-          8. You Can Test Your First Designed App In The Online Editor On A Mobile.
+Answer:   1. Download Expo Go.                                                                                                                                                   
+          2. Open Your App In Expo On Computer.                                                                                                                                 
+          3. Click On The My Device At Preview.                                                                                                                                 
+          4. Open Your App On Mobile.                                                                                                                                           
+          5. Click On Scan QR Code In Your App On Mobile.                                                                                                                       
+          6. Scan That Qr Code.                                                                                                                                                 
+          7. Your First Designed App Is On Your Mobile Screen.                                                                                                                   
+          8. You Can Test Your First Designed App In The Online Editor On A Mobile.                                                                                             
 #                                                                        
                                                                        
                                                                        
