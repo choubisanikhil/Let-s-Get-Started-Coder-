@@ -2,18 +2,14 @@
 ______________________________________________________________________
  
 1. Which one of the following is an Imperative Language??
-^     HTML
-.      CSS
-.      Java Script
+*     1. HTML     2. CSS     3. Java Script
             
 Answer:    Java Script 
 #
                                               
     
 2. Which one of the following is a Declarative Language??
-.      HTML
-.      CSS
-.      Java Script
+*     1. HTML     2. CSS     5. Java Script
                  
 Answer:    HTML ,   CSS
 #                                  
